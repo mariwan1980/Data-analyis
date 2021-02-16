@@ -1,0 +1,122 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd" >
+<smil>
+	<head>
+		<meta name="dc:identifier" content="d9dc90c0-1ff0-447f-aef7-73a6f415fe81" />
+		<meta name="ncc:generator" content="Obi v1.1.0.36971 with toolkit: urakawa v1.1.0.23740 (http://urakawa.sf.net/obi)" />
+		<meta name="dc:format" content="Daisy 2.02" />
+		<meta name="ncc:totalElapsedTime" content="00:01:58.8861678" />
+		<meta name="ncc:timeInThisSmil" content="00:01:24.1955556" />
+		<layout>
+			<region id="textView" />
+		</layout>
+	</head>
+	<body>
+        <seq id="ms_002" dur="84.195s">
+            <par endsync="last">
+                <text src="page002.html#txt31" id="txt31" />
+                <seq>
+                    <audio src="aud002.mp3" clip-begin="npt=0.000s" clip-end="npt=3.776s" id="aud31" />
+                </seq>
+            </par>
+
+            <par endsync="last">
+                <text src="page002.html#txt32" id="txt32" />
+                <seq>
+                    <audio src="aud002.mp3" clip-begin="npt=3.776s" clip-end="npt=9.287s" id="aud32" />
+                </seq>
+            </par>
+
+            <par endsync="last">
+                <text src="page002.html#txt33" id="txt33" />
+                <seq>
+                    <audio src="aud002.mp3" clip-begin="npt=9.287s" clip-end="npt=13.927s" id="aud33" />
+                </seq>
+            </par>
+
+            <par endsync="last">
+                <text src="page002.html#txt34" id="txt34" />
+                <seq>
+                    <audio src="aud002.mp3" clip-begin="npt=13.927s" clip-end="npt=18.582s" id="aud34" />
+                </seq>
+            </par>
+
+            <par endsync="last">
+                <text src="page002.html#txt35" id="txt35" />
+                <seq>
+                    <audio src="aud002.mp3" clip-begin="npt=18.582s" clip-end="npt=23.373s" id="aud35" />
+                </seq>
+            </par>
+
+            <par endsync="last">
+                <text src="page002.html#txt36" id="txt36" />
+                <seq>
+                    <audio src="aud002.mp3" clip-begin="npt=23.373s" clip-end="npt=29.709s" id="aud36" />
+                </seq>
+            </par>
+
+            <par endsync="last">
+                <text src="page002.html#txt37" id="txt37" />
+                <seq>
+                    <audio src="aud002.mp3" clip-begin="npt=29.709s" clip-end="npt=33.66s" id="aud37" />
+                </seq>
+            </par>
+
+            <par endsync="last">
+                <text src="page002.html#txt38" id="txt38" />
+                <seq>
+                    <audio src="aud002.mp3" clip-begin="npt=33.66s" clip-end="npt=39.075s" id="aud38" />
+                </seq>
+            </par>
+
+            <par endsync="last">
+                <text src="page002.html#txt39" id="txt39" />
+                <seq>
+                    <audio src="aud002.mp3" clip-begin="npt=39.075s" clip-end="npt=45.994s" id="aud39" />
+                </seq>
+            </par>
+
+            <par endsync="last">
+                <text src="page002.html#txt40" id="txt40" />
+                <seq>
+                    <audio src="aud002.mp3" clip-begin="npt=45.994s" clip-end="npt=50.617s" id="aud40" />
+                </seq>
+            </par>
+
+            <par endsync="last">
+                <text src="page002.html#txt41" id="txt41" />
+                <seq>
+                    <audio src="aud002.mp3" clip-begin="npt=50.617s" clip-end="npt=55.392s" id="aud41" />
+                </seq>
+            </par>
+
+            <par endsync="last">
+                <text src="page002.html#txt42" id="txt42" />
+                <seq>
+                    <audio src="aud002.mp3" clip-begin="npt=55.392s" clip-end="npt=60.96s" id="aud42" />
+                </seq>
+            </par>
+
+            <par endsync="last">
+                <text src="page002.html#txt43" id="txt43" />
+                <seq>
+                    <audio src="aud002.mp3" clip-begin="npt=60.96s" clip-end="npt=66.185s" id="aud43" />
+                </seq>
+            </par>
+
+            <par endsync="last">
+                <text src="page002.html#txt44" id="txt44" />
+                <seq>
+                    <audio src="aud002.mp3" clip-begin="npt=66.185s" clip-end="npt=74.624s" id="aud44" />
+                </seq>
+            </par>
+
+            <par endsync="last">
+                <text src="page002.html#txt45" id="txt45" />
+                <seq>
+                    <audio src="aud002.mp3" clip-begin="npt=74.624s" clip-end="npt=84.196s" id="aud45" />
+                </seq>
+            </par>
+        </seq>
+    </body>
+</smil>

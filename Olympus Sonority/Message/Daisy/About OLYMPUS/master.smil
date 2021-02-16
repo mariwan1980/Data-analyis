@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd" >
+<smil>
+	<head>
+		<meta name="dc:title" content="Untitled Obi Project" />
+		<meta name="dc:identifier" content="d9dc90c0-1ff0-447f-aef7-73a6f415fe81" />
+		<meta name="ncc:generator" content="Obi v1.1.0.36971 with toolkit: urakawa v1.1.0.23740 (http://urakawa.sf.net/obi)" />
+		<meta name="dc:format" content="Daisy 2.02" />
+		<meta name="ncc:timeInThisSmil" content="00:03:23" />
+		<layout>
+			<region id="textView" />
+		</layout>
+	</head>
+	<body>
+		<ref title="Mt.Olympus- the mountain where gods and goddesses live" src="001.smil" id="ms_001" />
+		<ref title="History of Our Corporate Logo" src="002.smil" id="ms_002" />
+	</body>
+</smil>
